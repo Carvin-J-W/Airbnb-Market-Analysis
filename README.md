@@ -6,4 +6,4 @@ The three main business problems are:
 2. What listing characteristics are associated with higher guest demand?
 3. How does pricing influence occupancy?
 
-The business report includes all information about what conclusions were made. If you would like to view the code, I provided the code as well. I also left comments in the code as well, though the code is quite self-explanatory. 
+The business report includes all information about what conclusions were made. If you would like to view the code, I provided the code as well. I also left comments in the code though the code itself is quite self-explanatory. 
