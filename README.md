@@ -1,5 +1,5 @@
 # Airbnb-Market-Analysis
-This repositiry is a end-to-end data analysis project using Airbnb listing data sourced from Inside Airbnb. The project covers the complete analytics workflow, including data acquisition, cleaning, exploratory data analysis, visualization, and business reporting. The analysis was designed around three business questions focused on property demand, listing characteristics, and pricing, with findings presented in a stakeholder-oriented business report.
+This repositiry is a end-to-end data analysis using Airbnb listing data sourced from Inside Airbnb. The project covers the complete analytics workflow, including data acquisition, cleaning, exploratory data analysis, visualization, and business reporting. The analysis was designed around three business questions focused on property demand, listing characteristics, and pricing, with findings presented in a stakeholder-oriented business report.
 
 The three main business problems are:
 1. Which property types appear to have the strongest demand based on review volume?
